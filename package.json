@@ -1,0 +1,22 @@
+{
+  "name": "",
+  "version": "1.0.0",
+  "author": "reco_luan",
+  "scripts": {
+    "dev": "vuepress dev .",
+    "build": "vuepress build ."
+  },
+  "devDependencies": {
+    "vuepress": "1.9.7",
+    "vuepress-theme-reco": "1.6.17"
+  },
+  "description": "",
+  "dependencies": {
+    "@vuepress-reco/vuepress-plugin-bulletin-popover": "^1.6.16",
+    "@vuepress-reco/vuepress-plugin-comments": "^1.6.13",
+    "@vuepress-reco/vuepress-plugin-kan-ban-niang": "^1.0.5",
+    "vuepress-plugin-comment": "^0.7.3",
+    "vuepress-plugin-cursor-effects": "^1.1.6",
+    "vuepress-plugin-ribbon-animation": "^1.1.3"
+  }
+}
