@@ -10,7 +10,7 @@ heroImageStyle: {
   background: '#fff',
   borderRadius: '1rem',
 }
-bgImage: back.jpg
+bgImage: back.webp
 bgImageStyle: {
   height: '1000px'
 }
