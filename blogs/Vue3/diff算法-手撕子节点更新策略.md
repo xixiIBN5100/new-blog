@@ -110,7 +110,7 @@ export default function updateChildren(parentElm,oldCh,newCh) {
 
 最后的最后 贴张图
 
-![](/assets/img/diff.png)
+![](/diff.png)
 
 >重新学习vue3第五天  
 >写于书咖

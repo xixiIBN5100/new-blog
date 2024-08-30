@@ -31,7 +31,7 @@ categories:
 
 ## 建立TCP链接
 
-![](assets/img/tcpLink.png)
+![](/tcpLink.png)
 
 ## 发送HTTP请求
 
@@ -61,7 +61,7 @@ HTTP报文头中包含Expires或者Cache-Control:max-age,浏览器会缓存资�
 
 ## TCP四次挥手  
 
-![](assets/img/tcpClose.png)  
+![](/tcpClose.png)  
 
 ## 渲染DOM树
 
@@ -72,13 +72,13 @@ HTML解析器将HTML文本解析为DOM树，然后交给渲染引擎渲染。
 ### css
 CSS解析器将CSS文本解析为CSSOM树，然后交给渲染引擎渲染。  
 
-![](assets/img/cssdom.png)
+![](/cssdom.png)
 
 **回流与重绘**  
 
 #### 回流
 
-![](assets/img/reflow.png)  
+![](/reflow.png)  
 
 #### 重绘
 页面中元素样式的改变并不影响它在文档流中的位置(color,background-color等等),浏览器会将新样式赋予元素并重新绘制他.  

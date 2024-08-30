@@ -54,7 +54,7 @@ $modify-sel: '--' !default
 ```
 要将这个bem.sass全局使用,需要在vite.config.ts中进行配置
 
-![](/assets/img/configsass.png)
+![](/configsass.png)
 
 使用示范
 ```vue

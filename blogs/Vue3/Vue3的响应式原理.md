@@ -81,7 +81,7 @@ export const trigger = (target,key) => {
 
 ```
 
-![](/assets/img/active.png)
+![](/active.png)
 ~~源码好难~~
 
 >重新学习vue第七天  

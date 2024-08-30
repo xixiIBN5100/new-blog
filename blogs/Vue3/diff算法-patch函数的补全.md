@@ -11,7 +11,7 @@ categories:
 
 <!--more-->
 
- ![](/assets/img/patch2.png)  
+ ![](/patch2.png)  
  即图片中红色部分
 ```javascript
 export default function patch(oldVnode,newVnode){

@@ -16,7 +16,7 @@ diff算法服务与最小量更新,将oldVnode中可以复用的部分用在newV
 
 ## patch函数
 
-![alt ](/assets/img/patch.png)
+![alt ](/patch.png)
 
 我们先来手撕一下当oldVnode和newVnode不是同一个节点的时候,patch函数是如何暴力删除旧的,插入新的
 

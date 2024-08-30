@@ -36,16 +36,6 @@ module.exports = {
         "icon": "reco-date"
       },
       {
-        "text": "文档",
-        "icon": "reco-message",
-        "items": [
-          {
-            "text": "vuepress-reco",
-            "link": "/docs/theme-reco/"
-          }
-        ]
-      },
-      {
         "text": "联系",
         "icon": "reco-message",
         "items": [
@@ -78,16 +68,9 @@ module.exports = {
     },
     "friendLink": [
       {
-        "title": "午后南杂",
-        "desc": "Enjoy when you can, and endure when you must.",
-        "email": "1156743527@qq.com",
-        "link": "https://www.recoluan.com"
-      },
-      {
-        "title": "vuepress-theme-reco",
-        "desc": "A simple and beautiful vuepress Blog & Doc theme.",
-        "avatar": "https://vuepress-theme-reco.recoluan.com/icon_vuepress_reco.png",
-        "link": "https://vuepress-theme-reco.recoluan.com"
+        "title": "桑葚",
+        "desc": "桑葚的后花园",
+        "link": " https://blog.mulberror.top"
       }
     ],
     "logo": "/logo.png",
@@ -127,7 +110,7 @@ module.exports = {
         },
         {
           type: 'title',
-          content: '友链或疑问均可在留言板给我留言',
+          content: '欢迎评论!',
           style: 'text-align: center;'
         }
       ],
