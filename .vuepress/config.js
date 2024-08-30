@@ -70,7 +70,8 @@ module.exports = {
       {
         "title": "桑葚",
         "desc": "桑葚的后花园",
-        "link": " https://blog.mulberror.top"
+        "link": " https://blog.mulberror.top",
+        "avatar": " https://blog.mulberror.top/img/avatar.png"
       }
     ],
     "logo": "/logo.png",
