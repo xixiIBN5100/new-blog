@@ -2,6 +2,7 @@
 title: Vue的设计与实现----事件处理
 date: 2024-08-27 17:00:00
 tags: [Vue源码,渲染器,事件冒泡]
+sidebar: 'auto'
 categories:
   - Vue3
 ---
