@@ -2,6 +2,7 @@
 title: Vue3中的eventLoop和nextTick
 date: 2024-05-15 19:14:47
 tags: [eventLoop,Vue源码]
+sidebar: 'auto'
 categories:
   - Vue3
 ---

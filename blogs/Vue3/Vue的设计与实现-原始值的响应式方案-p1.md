@@ -2,6 +2,7 @@
 title: Vue的设计与实现----原始值的响应式方案
 date: 2024-08-23 13:56:15
 tags: [Vue源码,响应式原理]
+sidebar: 'auto'
 categories:
   - Vue3
 ---

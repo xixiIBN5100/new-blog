@@ -2,6 +2,7 @@
 title: 深入v-model--自定义组件中v-model
 date: 2024-04-29 14:03:21
 tags: [v-model,组件]
+sidebar: 'auto'
 categories:
   - Vue3
 ---

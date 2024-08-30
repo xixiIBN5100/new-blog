@@ -2,6 +2,7 @@
 title: diff算法--手撕子节点更新策略
 date: 2024-04-14 14:21:41
 tags: [vue源码,diff算法]
+sidebar: 'auto'
 categories:
   - Vue3
 ---

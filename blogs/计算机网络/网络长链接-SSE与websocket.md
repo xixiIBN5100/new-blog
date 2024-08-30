@@ -2,6 +2,7 @@
 title: 网络长链接----SSE与websocket
 date: 2024-07-09 22:23:41
 tags: [网络]
+sidebar: 'auto'
 categories:
   - 计算机网络
 ---

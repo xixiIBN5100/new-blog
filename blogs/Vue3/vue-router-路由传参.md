@@ -2,6 +2,7 @@
 title: vue--router 路由传参
 date: 2024-07-05 22:02:43
 tags: [router4]
+sidebar: 'auto'
 categories:
   - Vue3
 ---

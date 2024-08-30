@@ -2,6 +2,7 @@
 title: Vue的设计与实现----响应系统的作用与实现(p2)
 date: 2024-07-21 21:58:42
 tags: [Vue源码,响应式原理]
+sidebar: 'auto'
 categories:
   - Vue3
 ---

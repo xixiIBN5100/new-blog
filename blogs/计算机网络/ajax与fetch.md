@@ -1,7 +1,8 @@
 ---
 title: ajax与fetch全套
 date: 2024-07-08 23:32:52
-tags: [网络] 
+tags: [网络]
+sidebar: 'auto'
 categories: 
   - 计算机网络
 ---

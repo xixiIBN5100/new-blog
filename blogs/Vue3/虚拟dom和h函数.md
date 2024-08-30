@@ -2,6 +2,7 @@
 title: 虚拟dom和h函数
 date: 2024-04-09 20:51:30
 tags: [vue源码]
+sidebar: 'auto'
 categories:
   - Vue3
 ---

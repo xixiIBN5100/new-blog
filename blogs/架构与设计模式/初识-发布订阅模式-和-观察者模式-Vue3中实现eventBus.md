@@ -2,6 +2,7 @@
 title: 初识'发布订阅模式'和'观察者模式'-- Vue3中实现eventBus
 date: 2024-04-27 16:31:13
 tags: [模式设计,eventBus]
+sidebar: 'auto'
 categories: [架构与设计模式]
 ---
 ## 发布订阅模式和观察者模式  

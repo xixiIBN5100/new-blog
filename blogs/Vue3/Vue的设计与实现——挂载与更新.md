@@ -2,6 +2,7 @@
 title: Vue的设计与实现----挂载与更新
 date: 2024-08-25 17:46:39
 tags: [Vue源码,渲染器]
+sidebar: 'auto'
 categories:
   - Vue3
 ---

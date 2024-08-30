@@ -2,6 +2,7 @@
 title: diff算法--patch函数补全
 date: 2024-04-12 21:37:49
 tags: [vue源码,diff算法]
+sidebar: 'auto'
 categories:
   - Vue3
 ---

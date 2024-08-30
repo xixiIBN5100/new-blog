@@ -2,6 +2,7 @@
 title: Vue3中的watch侦听器
 date: 2024-04-20 21:31:33
 tags: [watch,vue源码]
+sidebar: 'auto'
 categories:
   - Vue3
 ---

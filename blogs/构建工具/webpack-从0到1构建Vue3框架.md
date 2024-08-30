@@ -2,6 +2,7 @@
 title: webpack--从0到1构建Vue3框架
 date: 2024-05-24 10:19:44
 tags: [webpack]
+sidebar: 'auto'
 categories:
     - 构建工具
 ---

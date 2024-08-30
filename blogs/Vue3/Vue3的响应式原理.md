@@ -2,6 +2,7 @@
 title: Vue3的响应式原理
 date: 2024-04-17 19:18:15
 tags: [vue源码,响应式原理]
+sidebar: 'auto'
 categories:
   - Vue3
 ---

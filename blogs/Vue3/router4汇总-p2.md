@@ -2,6 +2,7 @@
 title: router4汇总(p2)
 date: 2024-07-07 10:56:07
 tags: [router4]
+sidebar: 'auto'
 categories:
   - Vue3
 ---

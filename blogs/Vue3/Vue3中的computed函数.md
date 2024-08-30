@@ -2,6 +2,7 @@
 title: Vue3中的computed函数
 date: 2024-04-20 16:28:27
 tags: [computed,vue源码]
+sidebar: 'auto'
 categories:
   - Vue3
 ---

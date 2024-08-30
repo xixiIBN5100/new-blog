@@ -2,6 +2,7 @@
 title: keep-alive缓存组件
 date: 2024-04-25 20:07:08
 tags: [组件]
+sidebar: 'auto'
 categories:
   - Vue3
 ---

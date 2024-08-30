@@ -2,6 +2,7 @@
 title: 初识bem架构和sass预处理器
 date: 2024-04-23 16:09:53
 tags: [bem]
+sidebar: 'auto'
 categories: [架构与设计模式]
 ---
 ## 认识bem架构

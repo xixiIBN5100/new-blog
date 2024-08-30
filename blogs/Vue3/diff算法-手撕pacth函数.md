@@ -2,6 +2,7 @@
 title: diff算法--手撕patch函数
 date: 2024-04-10 17:30:59
 tags: [diff算法,vue源码]
+sidebar: 'auto'
 categories:
   - Vue3
 ---

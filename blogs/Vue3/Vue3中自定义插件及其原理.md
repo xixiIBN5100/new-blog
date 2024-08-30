@@ -2,6 +2,7 @@
 title: Vue3中自定义插件及其原理
 date: 2024-05-15 12:01:09
 tags: [自定义插件,vue源码]
+sidebar: 'auto'
 categories:
   - Vue3
 ---

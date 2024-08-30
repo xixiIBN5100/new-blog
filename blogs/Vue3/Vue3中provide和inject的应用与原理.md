@@ -2,6 +2,7 @@
 title: Vue3中provide和inject的应用与原理
 date: 2024-04-26 12:02:32
 tags: [vue源码,组件通信]
+sidebar: 'auto'
 categories:
   - Vue3
 ---
