@@ -72,6 +72,16 @@ module.exports = {
         "desc": "桑葚的后花园",
         "link": " https://blog.mulberror.top",
         "avatar": " https://blog.mulberror.top/img/avatar.png"
+      },
+      {
+        "title": "望舒",
+        "desc": "望舒的blog",
+        "link": "blog.phlin.top"
+      },
+      {
+        "title": "浅浅",
+        "desc": "浅浅のblog",
+        "link": "https://qianqianzyk.top"
       }
     ],
     "logo": "/logo.png",
