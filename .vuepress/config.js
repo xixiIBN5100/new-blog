@@ -100,7 +100,7 @@ module.exports = {
     ['rss-feed',
       {
         username: 'lip',
-        hostname: 'https://blog.liip.fun/',
+        hostname: 'https://blog.liip.fun',
         selector: '.content__post', // extract content to content:encoded
         count: 200,
         filter: (page) => /^blogs/.test(page.relativePath),
