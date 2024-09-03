@@ -5,9 +5,6 @@ tags: [diff算法]
 sidebar: 'auto'
 categories:
   - Vue3
-feed:
-  enable: true
-description: 深入一下快速diff算法
 ---
 
 在Vue2中,采用了双端diff算法.而Vue3借鉴并拓展了快速diff算法.快速diff的实测速度非常快,这一章我们着重讨论快速diff的实现原理.  

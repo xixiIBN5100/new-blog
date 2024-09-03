@@ -1,8 +1,3 @@
-const feed_options = {
-  canonical_base: "https://blog.liip.fun/",
-  count: 5000,
-};
-
 module.exports = {
   "title": "离谱的blog",
   "description": "前端在学的小萌新",
@@ -102,7 +97,16 @@ module.exports = {
     "lineNumbers": true
   },
   plugins: [
-    [["feed", feed_options]],
+    ['@vuepress-reco/rss', {
+      site_url: 'https://blog.liip.fun/',
+      count: 300,
+    }],
+        [
+          "feed",
+          {
+            canonical_base: "https://blog.liip.fun/"
+          }
+        ],
     [
       '@vuepress-reco/vuepress-plugin-kan-ban-niang',{
       theme: [
