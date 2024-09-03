@@ -28,6 +28,9 @@ devDependencies:
   vuepress:
     specifier: 1.9.7
     version: 1.9.7(react-dom@15.7.0)(react@15.7.0)
+  vuepress-plugin-feed:
+    specifier: ^0.1.9
+    version: 0.1.9(vuepress@1.9.7)
   vuepress-theme-reco:
     specifier: 1.6.17
     version: 1.6.17(chalk@2.4.2)(commander@2.20.3)(esm@3.2.25)(vue-class-component@7.2.6)(vuepress@1.9.7)
