@@ -97,16 +97,15 @@ module.exports = {
     "lineNumbers": true
   },
   plugins: [
-    ['@vuepress-reco/rss', {
-      site_url: 'https://blog.liip.fun/',
-      count: 300,
-    }],
-        [
-          "feed",
-          {
-            canonical_base: "https://blog.liip.fun/"
-          }
-        ],
+    ['rss-feed',
+      {
+        username: 'lip',
+        hostname: 'https://blog.liip.fun/',
+        selector: '.content__post', // extract content to content:encoded
+        count: 200,
+        filter: (page) => /^blogs/.test(page.relativePath),
+      },
+    ],
     [
       '@vuepress-reco/vuepress-plugin-kan-ban-niang',{
       theme: [
