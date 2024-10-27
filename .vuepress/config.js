@@ -76,12 +76,16 @@ module.exports = {
       {
         "title": "望舒",
         "desc": "望舒的blog",
-        "link": "blog.phlin.top"
+        "link": "https://blog.phlin.top"
       },
       {
         "title": "浅浅",
         "desc": "浅浅のblog",
         "link": "https://qianqianzyk.top"
+      },
+      {
+        "title": "红褪墨残",
+        "link": "https://fufffh.github.io/"
       }
     ],
     "logo": "/logo.png",
